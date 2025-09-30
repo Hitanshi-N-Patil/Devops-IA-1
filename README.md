@@ -44,13 +44,16 @@ It demonstrates how automation tools can be combined to provision infrastructure
 ## 🔹 Final Output
 
 ✅ Node2 webpage:  
-![Node2 webpage](images/node2.png)
+![Node2 webpage](<img width="700" height="418" alt="image" src="https://github.com/user-attachments/assets/ed10b944-4d05-40ea-9024-c1682ebf79f7" />
+)
 
 ✅ Node3 webpage:  
-![Node3 webpage](images/node3.png)
+![Node3 webpage](<img width="692" height="431" alt="image" src="https://github.com/user-attachments/assets/604936bc-3d66-4496-b1d6-64314a903c90" />
+)
 
 ✅ Jenkins pipeline showing successful build:  
-![Jenkins pipeline](images/jenkins.png)
+![Jenkins pipeline](<img width="1898" height="477" alt="image" src="https://github.com/user-attachments/assets/31425f3c-b149-4803-b33e-9df6146064b0" />
+)
 
 ---
 
